@@ -4,4 +4,4 @@ Filtro por idade
 Filtro por mebro premium
 Cadastro com banco de dados
 Mecanismo de Pesquisa
-Não Usar Template
+Filtro de administrador
